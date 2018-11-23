@@ -1,4 +1,4 @@
-exports.TOKEN = 'NTEzMDI5NTY4NTA5MTE2NDI3.Dthxyw.ufOsZB8lyaYaLSxuqcHDcE0evWg';
+exports.TOKEN = '';
 
 exports.PREFIX = '/';
 
